@@ -1,0 +1,13 @@
+
+.bg-primary {
+    background-color: #000000 !important;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 32vw;
+    object-fit: cover;
+}
+.col-7 {
+    overflow: auto;
+}
